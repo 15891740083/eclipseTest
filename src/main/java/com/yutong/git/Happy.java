@@ -8,6 +8,8 @@ public class Happy {
 		System.out.println("test happy");
 		System.out.println("TestGit");
 		System.out.println("eclipseTestGit");
+		System.out.println("new hot_fix");
+		
 	}
 	
 }
