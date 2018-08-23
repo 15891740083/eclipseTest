@@ -6,6 +6,7 @@ public class Happy {
 		
 		// TODO Auto-generated method stub
 		System.out.println("test happy");
+		System.out.println("eclipseTestGit");
 	}
 	
 }
