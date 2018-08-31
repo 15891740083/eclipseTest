@@ -9,6 +9,7 @@ public class Happy {
 		System.out.println("TestGit");
 		System.out.println("eclipseTestGit");
 		System.out.println("new hot_fix");
+		System.out.println("new hot_fix");
 		
 	}
 	
